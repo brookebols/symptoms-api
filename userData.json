@@ -1,5 +1,5 @@
 {
-    "symptoms": [{
+    "userData": [{
         "id": 1,
         "name": "Irregular period",
         "hasSymptom": true
