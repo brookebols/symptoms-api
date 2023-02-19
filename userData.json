@@ -2,7 +2,7 @@
     "userData": [{
         "id": 1,
         "name": "Irregular period",
-        "hasSymptom": "Symptom present"
+        "hasSymptom": "🚩"
     }, {
         "id": 2,
         "name": "Excess body hair",
@@ -10,7 +10,7 @@
     }, {
         "id": 3,
         "name": "Acne",
-        "hasSymptom": "Symptom present"
+        "hasSymptom": "🚩"
     }, {
         "id": 4,
         "name": "Male pattern hair loss",
@@ -18,7 +18,7 @@
     }, {
         "id": 5,
         "name": "Infertility",
-        "hasSymptom": "Symptom present"   
+        "hasSymptom": "🚩"   
     }
 ]
 }
