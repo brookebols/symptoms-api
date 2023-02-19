@@ -6,7 +6,7 @@
     }, {
         "id": 2,
         "name": "Excess body hair",
-        "hasSymptom": false
+        "hasSymptom": "https://raw.githubusercontent.com/brookebols/symptoms-api/main/redx.png"
     }, {
         "id": 3,
         "name": "Acne",
@@ -14,7 +14,7 @@
     }, {
         "id": 4,
         "name": "Male pattern hair loss",
-        "hasSymptom": false    
+        "hasSymptom": "https://raw.githubusercontent.com/brookebols/symptoms-api/main/redx.png"
     }, {
         "id": 5,
         "name": "Infertility",
