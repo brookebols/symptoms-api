@@ -1,47 +1,43 @@
 {
     "symptoms": [{
         "id": 1,
-        "name": "irregular period",
+        "name": "Irregular period",
         "isPcos": true
     }, {
         "id": 2,
-        "name": "missed period",
+        "name": "Excess body hair",
         "isPcos": true
     }, {
         "id": 3,
-        "name": "excess body hair",
+        "name": "Acne",
         "isPcos": true
     }, {
         "id": 4,
-        "name": "acne",
-        "isPcos": true
+        "name": "Male pattern hair loss",
+        "isPcos": true    
     }, {
         "id": 5,
-        "name": "hair loss",
+        "name": "Infertility",
         "isPcos": true    
     }, {
         "id": 6,
-        "name": "infertility",
-        "isPcos": true    
-    }, {
-        "id": 7,
-        "name": "runny nose",
+        "name": "Runny nose",
         "isPcos": false    
     }, {
-        "id": 8,
-        "name": "cough",
+        "id": 7,
+        "name": "Cough",
         "isPcos": false
     }, {
+        "id": 8,
+        "name": "Ovarian cysts",
+        "isPcos": true
+    }, {
         "id": 9,
-        "name": "ovarian cysts",
+        "name": "Fatigue",
         "isPcos": true
     }, {
         "id": 10,
-        "name": "fatigue",
-        "isPcos": true
-    }, {
-        "id": 11,
-        "name": "inflammation",
+        "name": "Inflammation",
         "isPcos": true
     }
 ]
