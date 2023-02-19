@@ -2,23 +2,23 @@
     "userData": [{
         "id": 1,
         "name": "Irregular period",
-        "hasSymptom": "https://raw.githubusercontent.com/brookebols/symptoms-api/main/checkmark.png"
+        "hasSymptom": "Symptom present"
     }, {
         "id": 2,
         "name": "Excess body hair",
-        "hasSymptom": "https://raw.githubusercontent.com/brookebols/symptoms-api/main/redx.png"
+        "hasSymptom": " "
     }, {
         "id": 3,
         "name": "Acne",
-        "hasSymptom": "https://raw.githubusercontent.com/brookebols/symptoms-api/main/checkmark.png"
+        "hasSymptom": "Symptom present"
     }, {
         "id": 4,
         "name": "Male pattern hair loss",
-        "hasSymptom": "https://raw.githubusercontent.com/brookebols/symptoms-api/main/redx.png"
+        "hasSymptom": " "
     }, {
         "id": 5,
         "name": "Infertility",
-        "hasSymptom": "https://raw.githubusercontent.com/brookebols/symptoms-api/main/checkmark.png"   
+        "hasSymptom": "Symptom present"   
     }
 ]
 }
