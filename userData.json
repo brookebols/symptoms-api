@@ -1,0 +1,44 @@
+{
+    "symptoms": [{
+        "id": 1,
+        "name": "Irregular period",
+        "hasSymptom": true
+    }, {
+        "id": 2,
+        "name": "Excess body hair",
+        "hasSymptom": false
+    }, {
+        "id": 3,
+        "name": "Acne",
+        "hasSymptom": true
+    }, {
+        "id": 4,
+        "name": "Male pattern hair loss",
+        "hasSymptom": false    
+    }, {
+        "id": 5,
+        "name": "Infertility",
+        "hasSymptom": true    
+    }, {
+        "id": 6,
+        "name": "Runny nose",
+        "hasSymptom": false    
+    }, {
+        "id": 7,
+        "name": "Cough",
+        "hasSymptom": false
+    }, {
+        "id": 8,
+        "name": "Ovarian cysts",
+        "hasSymptom": true
+    }, {
+        "id": 9,
+        "name": "Fatigue",
+        "hasSymptom": true
+    }, {
+        "id": 10,
+        "name": "Inflammation",
+        "hasSymptom": true
+    }
+]
+}
